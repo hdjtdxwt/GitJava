@@ -1,2 +1,2 @@
 git命令行提交代码时用到的密码不再是以前的而是各个项目生成的，下面这行是这个项目的token:
-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
+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
